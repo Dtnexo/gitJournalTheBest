@@ -44,3 +44,11 @@ Ce petit serveur gère le fichier `modifications.json`.
 cd server
 npm install
 node server.js
+```
+
+### 2. Lancer le frontend 
+```bash
+cd gitjournal-vue
+npm i
+npm run dev
+```
